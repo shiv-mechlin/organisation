@@ -1,0 +1,16 @@
+.k-popup>.k-widget {
+    border-width: 0;
+    display: none !important;
+}
+.k-toolbar {
+    /* background-clip: padding-box; */
+    display: none !important;
+}
+
+.ui-dialog{
+    
+}
+nav.navbar.navbar-expand-lg.navbar-bacgroundImg.navbar-absolute.fixed-top {
+    position: relative;
+    top: 27px;
+}
